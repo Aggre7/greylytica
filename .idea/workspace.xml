@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed84fa7e-6091-49e6-90b8-71230d1f01d8" name="Changes" comment="Initial commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Aggre7&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Aggre7/greylytica&quot;,
+    &quot;accountId&quot;: &quot;ea907645-e767-4534-b1f3-2e052ff097ee&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2sLDTghOxWC2RwZoEZciAeGyQHh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "javascript.nodejs.core.library.configured.version": "22.13.0",
+    "javascript.nodejs.core.library.typings.version": "22.12.0",
+    "last_opened_file_path": "D:/Projects/Greylytica-ERP",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "D:\\Projects\\Greylytica-ERP\\frontend\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "ts.external.directory.path": "D:\\Program Files\\JetBrains\\WebStorm 2024.3.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\Greylytica-ERP\frontend\src\style\images" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed84fa7e-6091-49e6-90b8-71230d1f01d8" name="Changes" comment="" />
+      <created>1738225972539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738225972539</updated>
+      <workItem from="1738225974148" duration="3220000" />
+      <workItem from="1738229271586" duration="10730000" />
+      <workItem from="1738247660475" duration="2068000" />
+      <workItem from="1738260152306" duration="259000" />
+      <workItem from="1738303821508" duration="202000" />
+      <workItem from="1738672743952" duration="66000" />
+      <workItem from="1738673338220" duration="805000" />
+      <workItem from="1738997262664" duration="1504000" />
+      <workItem from="1739079810887" duration="911000" />
+      <workItem from="1739164815567" duration="596000" />
+      <workItem from="1739256169592" duration="9537000" />
+      <workItem from="1739337689652" duration="6000" />
+      <workItem from="1739379247630" duration="608000" />
+      <workItem from="1739423650001" duration="12000" />
+      <workItem from="1739684148091" duration="78000" />
+      <workItem from="1739794878684" duration="1509000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit.">
+      <option name="closed" value="true" />
+      <created>1738245847963</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738245847966</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Commit.">
+      <option name="closed" value="true" />
+      <created>1738245919275</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738245919275</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial Commit.">
+      <option name="closed" value="true" />
+      <created>1738246214809</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738246214809</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial Commit.">
+      <option name="closed" value="true" />
+      <created>1738246751556</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738246751556</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial Commit.">
+      <option name="closed" value="true" />
+      <created>1738248878320</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738248878320</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial Commit.">
+      <option name="closed" value="true" />
+      <created>1738249684858</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738249684858</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Updated NODE_ENV and OPENSSL_CONF">
+      <option name="closed" value="true" />
+      <created>1738260255214</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738260255214</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Minor refactoring">
+      <option name="closed" value="true" />
+      <created>1738997946506</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1738997946506</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1739796393357</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1739796393357</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Initial Commit." />
+    <MESSAGE value="Updated NODE_ENV and OPENSSL_CONF" />
+    <MESSAGE value="Minor refactoring" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+</project>
